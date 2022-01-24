@@ -2,7 +2,7 @@ import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { MongooseModule } from '@nestjs/mongoose';
-import { PersonModule } from './modules/person/person.module';
+import { PatientModule } from './modules/patient/patient.module';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { VaccinationModule } from './modules/vaccination/vaccination.module';
 import { PlaceModule } from './modules/place/place.module';
@@ -24,7 +24,7 @@ import { PlaceModule } from './modules/place/place.module';
       inject: [ConfigService],
     }),
     // MongooseModule.forRoot('mongodb://localhost/covid-portal'),
-    PersonModule,
+    PatientModule,
     VaccinationModule,
     PlaceModule,
   ],

@@ -40,12 +40,6 @@ export class Place {
   @Prop()
   name: string;
 
-  // @Prop({
-  //   type: [Number],
-  //   index: '2d',
-  // })
-  // geoLocation: [number];
-
   @Prop({
     type: GeoLocSchema,
   })
