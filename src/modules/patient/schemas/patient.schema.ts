@@ -1,22 +1,26 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
-import { Document } from 'mongoose';
-import { TravelHistory, TravelHistoryInterface, TravelHistorySchema } from './travel-history.schema';
-
-type IPatientStatus = 'INFECTED' | 'RECOVERED' | 'NEVER_INFECTED' | 'DEAD';
-export const PatientStatus: IPatientStatus[] = [
-  'NEVER_INFECTED',
-  'INFECTED',
-  'RECOVERED',
-  'DEAD',
-];
-
-export const CNIC_REGEX_EXP = '^[0-9+]{5}-[0-9+]{7}-[0-9]{1}$';
+import { Document, Schema as MongooseSchema } from 'mongoose';
+import { Place } from 'src/modules/place/schemas/place.schemas';
+import { Vaccination } from 'src/modules/vaccination/schemas/vaccination.schema';
+import {
+  AilementHistoryInterface,
+  AilementHistorySchema,
+} from './ailement-history.schema';
+import { CNIC_REGEX_EXP, PatientStatus } from './patient.constants';
+import {
+  TravelHistoryInterface,
+  TravelHistorySchema,
+} from './travel-history.schema';
+import { Factory } from 'nestjs-seeder';
+const RandExp = require('randexp');
 
 @Schema()
 export class Patient {
+  @Factory((faker) => faker.name.findName())
   @Prop()
   name: string;
 
+  @Factory(() => new RandExp(CNIC_REGEX_EXP).gen())
   @Prop({
     type: String,
     length: 13,
@@ -26,6 +30,7 @@ export class Patient {
   })
   CNIC: string;
 
+  @Factory((faker) => faker.random.arrayElement(PatientStatus))
   @Prop({
     type: String,
     required: true,
@@ -36,6 +41,19 @@ export class Patient {
 
   @Prop({ type: [TravelHistorySchema] })
   travelHistory: TravelHistoryInterface[];
+
+  @Prop({ type: [AilementHistorySchema] })
+  ailementHistory: AilementHistoryInterface[];
+
+  @Prop({ type: MongooseSchema.Types.ObjectId, ref: 'Place' })
+  currentPlace: Place;
+
+  @Prop({ type: [{ type: MongooseSchema.Types.ObjectId, ref: 'Vaccination' }] })
+  vaccinations: Vaccination[];
+
+  @Factory((faker) => faker.random.arrayElement([true, false]))
+  @Prop()
+  recentlyTravelled: boolean;
 }
 
 export type PatientDocument = Patient & Document;

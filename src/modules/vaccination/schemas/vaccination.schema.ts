@@ -1,5 +1,7 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
-import { Document } from 'mongoose';
+import { Document, Schema as MongooseSchema } from 'mongoose';
+import { Patient } from 'src/modules/patient/schemas/patient.schema';
+import { Place } from 'src/modules/place/schemas/place.schemas';
 
 export type VaccinationDocument = Vaccination & Document;
 
@@ -14,9 +16,6 @@ const VACCINATIONS: VACCINATIONS_TYPE[] = [
 @Schema()
 export class Vaccination {
   @Prop()
-  vaccinatedVaccination: string; // varchar [ref: > Vaccination.id]
-
-  @Prop()
   vaccinationDate: Date;
 
   @Prop({
@@ -27,10 +26,13 @@ export class Vaccination {
   VaccinationName: string;
 
   @Prop()
-  VaccinationCenter: string;
+  VaccinationCenterName: string;
 
-  @Prop()
-  currentDistrict: string;
+  @Prop({ type: MongooseSchema.Types.ObjectId, ref: 'Place' })
+  VaccinationCenterPlace: Place;
+
+  @Prop({ type: MongooseSchema.Types.ObjectId, ref: 'Patient' })
+  patientId: Patient;
 }
 
 export const VaccinationSchema = SchemaFactory.createForClass(Vaccination);

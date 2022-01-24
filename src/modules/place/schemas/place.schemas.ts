@@ -1,40 +1,15 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
-import { Document } from 'mongoose';
-
-@Schema()
-export class GeoLoc extends Document {
-  @Prop({
-    type: String,
-    enum: ['Point'],
-    default: 'Point',
-    required: true,
-  })
-  type: string;
-
-  @Prop({
-    type: [Number],
-    required: true,
-    index: '2dsphere',
-  })
-  coordinates: [number];
-}
-export const GeoLocSchema = SchemaFactory.createForClass(GeoLoc);
-
-interface GeoInterface {
-  type: string;
-  coordinates: [number];
-}
-
-export type PlaceDocument = Place & Document;
+import { Document, Types } from 'mongoose';
+import { GeoInterface, GeoLocSchema } from './geo-loc.schema';
 
 @Schema({
-  toJSON: {
-    transform(doc, ret) {
-      ret.id = ret._id;
-      delete ret._id;
-      delete ret.__v;
-    },
-  },
+  // toJSON: {
+  //   transform(doc, ret) {
+  //     ret.id = ret._id;
+  //     delete ret._id;
+  //     delete ret.__v;
+  //   },
+  // },
 })
 export class Place {
   @Prop()
@@ -50,6 +25,23 @@ export class Place {
 
   @Prop()
   country: string;
+
+  @Prop()
+  countryCode: string;
 }
 
+export interface PlaceInterface {
+  _id: Types.ObjectId;
+  name: string;
+  location: {
+    _id: Types.ObjectId;
+    coordinates: [number, number];
+    type: string;
+  };
+  city: string;
+  country: string;
+  countryCode: string;
+}
+
+export type PlaceDocument = Place & Document;
 export const PlaceSchema = SchemaFactory.createForClass(Place);
