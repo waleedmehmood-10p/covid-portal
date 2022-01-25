@@ -6,6 +6,7 @@ import { PatientModule } from './modules/patient/patient.module';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { VaccinationModule } from './modules/vaccination/vaccination.module';
 import { PlaceModule } from './modules/place/place.module';
+import { CovidTestModule } from './modules/covid-test/covid-test.module';
 
 @Module({
   imports: [
@@ -27,6 +28,7 @@ import { PlaceModule } from './modules/place/place.module';
     PatientModule,
     VaccinationModule,
     PlaceModule,
+    CovidTestModule,
   ],
   controllers: [AppController],
   providers: [AppService],
