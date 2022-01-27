@@ -1,5 +1,6 @@
 import { ApiProperty } from '@nestjs/swagger';
-import { IsString } from 'class-validator';
+import { IsIn, IsString, Matches } from 'class-validator';
+import { CNIC_REGEX_EXP, PatientStatus } from '../schemas/patient.constants';
 
 export class CreatePatientDto {
   @IsString()
@@ -7,6 +8,12 @@ export class CreatePatientDto {
   name: string;
 
   @IsString()
+  @Matches(CNIC_REGEX_EXP)
   @ApiProperty({ type: String, description: 'name' })
   CNIC: string;
+
+  @IsString()
+  @IsIn(PatientStatus)
+  @ApiProperty({})
+  status: string;
 }

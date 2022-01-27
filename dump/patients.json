@@ -1,0 +1,1299 @@
+[{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dc3"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "26649-1895349-1",
+  "name": "Vesta Harvey",
+  "ailementHistory": [
+    {
+      "abroad": false,
+      "placeName": "Karachi",
+      "status": "NEVER_INFECTED",
+      "_id": {
+        "$oid": "61f286d4d1f7ed93b9ed3a12"
+      }
+    },
+    {
+      "abroad": false,
+      "placeName": "Karachi",
+      "status": "NEVER_INFECTED",
+      "_id": {
+        "$oid": "61f28a7b0b62265d39e8ce7d"
+      }
+    },
+    {
+      "abroad": false,
+      "placeName": "Karachi",
+      "status": "NEVER_INFECTED",
+      "_id": {
+        "$oid": "61f28add978763dbacc4deea"
+      }
+    },
+    {
+      "abroad": false,
+      "placeName": "Karachi",
+      "status": "NEVER_INFECTED",
+      "_id": {
+        "$oid": "61f28af3978763dbacc4def7"
+      }
+    },
+    {
+      "abroad": false,
+      "placeName": "Karachi",
+      "status": "NEVER_INFECTED",
+      "_id": {
+        "$oid": "61f28b131f922c2adfc62043"
+      }
+    },
+    {
+      "abroad": false,
+      "placeName": "Karachi",
+      "status": "NEVER_INFECTED",
+      "_id": {
+        "$oid": "61f28b2f288ea029408d0389"
+      }
+    },
+    {
+      "abroad": false,
+      "placeName": "Karachi",
+      "status": "INFECTED",
+      "_id": {
+        "$oid": "61f28cbe3a73864be89d5478"
+      }
+    }
+  ],
+  "travelHistory": [
+    {
+      "abroad": false,
+      "placeName": "Karachi",
+      "placeId": {
+        "$oid": "61f1a62bcfc98aea0b607e16"
+      },
+      "travellingDaysCount": 1,
+      "travelDate": {
+        "$date": "1997-07-16T18:20:30Z"
+      },
+      "_id": {
+        "$oid": "61f1acd54f4f37075312ee70"
+      }
+    },
+    {
+      "abroad": false,
+      "placeName": "Karachi",
+      "placeId": {
+        "$oid": "61f1a62bcfc98aea0b607e16"
+      },
+      "travellingDaysCount": 1,
+      "travelDate": {
+        "$date": "1997-07-16T18:20:30Z"
+      },
+      "_id": {
+        "$oid": "61f1ad489cb23ecb4b0ff02b"
+      }
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dc4"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "11028-8363691-3",
+  "name": "Colton Champlin",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dc5"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "02598-7642563-0",
+  "name": "Monica Keebler",
+  "ailementHistory": [
+    {
+      "abroad": false,
+      "placeName": "Karachi",
+      "status": "RECOVERED",
+      "_id": {
+        "$oid": "61f28cd33a73864be89d5481"
+      },
+      "recoveredDate": {
+        "$date": "1997-07-16T18:20:30Z"
+      }
+    }
+  ],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dc6"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "25196-0172815-5",
+  "name": "Dr. Deshawn Kub",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dc7"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "24205-1828045-4",
+  "name": "Kailee Tillman",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dc8"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "21711-0246352-9",
+  "name": "Kurt Beier MD",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dc9"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "67344-2558028-8",
+  "name": "Mazie Lindgren",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dca"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "78423-4300763-7",
+  "name": "Perry Bahringer",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dcb"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "18376-8381771-8",
+  "name": "Meaghan Renner DDS",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dcc"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "30852-1193915-2",
+  "name": "Bret Friesen",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dcd"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "57082-4087109-0",
+  "name": "Lurline Homenick",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dce"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "99656-2540340-2",
+  "name": "Jessika Beahan",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dcf"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "02250-6575446-8",
+  "name": "Porter Steuber",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dd0"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "73001-1424143-8",
+  "name": "Travis Larkin",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dd1"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "21102-3851203-2",
+  "name": "Helen Dare",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dd2"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "35053-8717187-0",
+  "name": "Nikolas Jones",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dd3"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "71163-2727423-7",
+  "name": "Evert Keeling Sr.",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dd4"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "74609-2499897-6",
+  "name": "Leonard Schneider",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dd5"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "64231-8699444-4",
+  "name": "Mack Leuschke",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dd6"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "01906-7174573-2",
+  "name": "Taya Stehr",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dd7"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "62555-0819832-6",
+  "name": "Dane Aufderhar",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dd8"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "34968-3193534-2",
+  "name": "Emmett Zemlak",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dd9"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "62990-8433686-3",
+  "name": "Jaunita Watsica",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dda"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "05129-9973115-1",
+  "name": "Ms. Dudley Ward",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8ddb"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "69356-2363673-2",
+  "name": "Cortney Aufderhar",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8ddc"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "09176-8651725-0",
+  "name": "Gilberto Beier",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8ddd"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "67623-1802657-8",
+  "name": "Mabelle Smith III",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dde"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "67518-7478647-8",
+  "name": "Alisa Crona",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8ddf"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "96507-2142333-5",
+  "name": "Una Walter",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8de0"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "02521-2835907-2",
+  "name": "Sally Gislason",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8de1"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "24981-8005340-2",
+  "name": "Leilani Toy",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8de2"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "45321-4871791-5",
+  "name": "Grayson Murphy",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8de3"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "74353-6589363-5",
+  "name": "Pattie Kemmer",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8de4"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "71878-2046178-6",
+  "name": "Mrs. Jaida Schmidt",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8de5"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "02572-8368411-7",
+  "name": "Bell Jakubowski",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8de6"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "70869-8115503-7",
+  "name": "Francesca Adams",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8de7"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "32116-2786593-3",
+  "name": "Agustin Kuhlman MD",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8de8"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "86988-3648747-8",
+  "name": "Lura Reichel",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8de9"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "69895-6131941-0",
+  "name": "Florian Bechtelar",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dea"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "87005-2210015-5",
+  "name": "Mrs. Barry Koch",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8deb"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "52924-8839414-8",
+  "name": "Vernie Koch",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dec"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "67564-7981822-3",
+  "name": "Aubrey Osinski",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8ded"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "03090-0155761-1",
+  "name": "William Murazik",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dee"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "67090-5232554-5",
+  "name": "Miss Jimmie Ankunding",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8def"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "04483-2306627-7",
+  "name": "Cheyenne Lindgren",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8df0"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "45308-8441733-8",
+  "name": "Mr. Joannie Marvin",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8df1"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "56968-5180205-0",
+  "name": "Osvaldo Mohr",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8df2"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "80182-9822162-0",
+  "name": "Ines Conn",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8df3"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "75891-8502790-3",
+  "name": "Kris Schamberger",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8df4"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "28598-8759194-6",
+  "name": "Cornell Ondricka",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8df5"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "68566-1501481-3",
+  "name": "Genoveva Kertzmann",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8df6"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "43719-2895963-1",
+  "name": "Caesar Koss Jr.",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8df7"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "07556-8639415-0",
+  "name": "Matilda Hagenes",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8df8"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "55382-4035050-3",
+  "name": "Ms. Earnestine Weissnat",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8df9"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "04487-6478362-5",
+  "name": "Ms. Dedric Moen",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dfa"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "08734-6440685-7",
+  "name": "Sophie Corkery",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dfb"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "28954-1284735-6",
+  "name": "Elwyn Morissette I",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dfc"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "31073-2108114-5",
+  "name": "Tre Kassulke",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dfd"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "01565-6174464-7",
+  "name": "Lillie Watsica",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dfe"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "44238-9611284-7",
+  "name": "Miss Raphaelle Weissnat",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8dff"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "81500-6761302-1",
+  "name": "Kraig Hammes I",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e00"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "03776-6083802-4",
+  "name": "Freddy Bechtelar",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e01"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "29796-0247384-6",
+  "name": "Rosalee Emmerich",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e02"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "57640-8103493-3",
+  "name": "Ms. Anne Thompson",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e03"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "64467-2166198-5",
+  "name": "Jerry Ziemann DVM",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e04"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "24909-4855217-8",
+  "name": "Raegan Hauck",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e05"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "59364-4182943-9",
+  "name": "Holden Hodkiewicz",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e06"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "45583-8034163-6",
+  "name": "Ron Marvin",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e07"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "89101-2452144-8",
+  "name": "Mittie Hamill",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e08"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "21754-0038668-4",
+  "name": "Jewell Lind",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e09"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "79617-8917874-7",
+  "name": "Kareem Gulgowski",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e0a"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "67992-4478267-2",
+  "name": "Ms. Vernice Boyle",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e0b"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "80987-2085128-6",
+  "name": "Cierra Christiansen V",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e0c"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "25122-0023247-1",
+  "name": "Mr. Jacklyn Murazik",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e0d"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "92741-2016783-0",
+  "name": "Lexie Weimann DDS",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e0e"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "01305-4199468-6",
+  "name": "Lauriane Dickinson",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e0f"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "77064-9628417-6",
+  "name": "Marvin Lebsack",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e10"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "78845-7750719-4",
+  "name": "Wayne Howe",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e11"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "46966-1516459-6",
+  "name": "Mr. Makenzie Lemke",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e12"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "57729-7397564-6",
+  "name": "Jess Thiel",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e13"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "31885-6108611-4",
+  "name": "Joelle McCullough",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e14"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "04522-1508149-6",
+  "name": "Daphney Veum",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e15"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "15907-8282096-4",
+  "name": "Mrs. Aliya Green",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e16"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "54049-1288050-0",
+  "name": "Vernon Nitzsche",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e17"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "46020-2958226-5",
+  "name": "Angelita Champlin",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e18"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "22550-7036047-3",
+  "name": "Darius Bayer",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e19"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "61677-9441497-8",
+  "name": "Miss Dave Kassulke",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e1a"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "33122-9857566-1",
+  "name": "Ms. Ramon Hessel",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e1b"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "34687-7783226-5",
+  "name": "Marjolaine Ortiz",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e1c"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "96544-9745834-6",
+  "name": "Kamren Schaefer V",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e1d"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "66389-1201226-0",
+  "name": "Elisa Mills",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e1e"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "91491-8413692-3",
+  "name": "Mr. Santina Jacobi",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e1f"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "70584-3011320-2",
+  "name": "Christa Bins",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e20"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "50455-5952447-9",
+  "name": "Merle Lehner",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e21"
+  },
+  "recentlyTravelled": true,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "01849-2313599-2",
+  "name": "Mr. Ignacio Funk",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e22"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "INFECTED",
+  "CNIC": "45279-2161278-1",
+  "name": "Jett Cormier",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e23"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "34789-3247898-6",
+  "name": "Junius Brekke",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e24"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "RECOVERED",
+  "CNIC": "43116-7822951-3",
+  "name": "Belle Bins DDS",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e25"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "NEVER_INFECTED",
+  "CNIC": "40270-4084525-6",
+  "name": "Monroe Macejkovic DVM",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a64b918a1197c87c8e26"
+  },
+  "recentlyTravelled": false,
+  "vaccinations": [],
+  "status": "DEAD",
+  "CNIC": "51459-2756747-5",
+  "name": "Marques Okuneva",
+  "ailementHistory": [],
+  "travelHistory": [],
+  "__v": 0
+}]

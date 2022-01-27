@@ -26,7 +26,7 @@ async function bootstrap() {
     .addTag('organizations')
     .build();
   const document = SwaggerModule.createDocument(app, config);
-  SwaggerModule.setup('api/doc', app, document);
+  SwaggerModule.setup('api/docs', app, document);
 
   app.enableCors();
 

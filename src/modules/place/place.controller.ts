@@ -7,12 +7,12 @@ export class PlaceController {
   constructor(private readonly placeService: PlaceService) {}
 
   @Get()
-  async getAllPersons() {
+  async getAllPlaces() {
     return this.placeService.getAllPlaces();
   }
 
   @Post()
-  async addPerson(@Req() req: Request, @Body() body: any) {
+  async addPlace(@Req() req: Request, @Body() body: any) {
     const place = body;
 
     return this.placeService.createPlace(place);
@@ -21,6 +21,8 @@ export class PlaceController {
   @Get('/find-near')
   async findNear(@Req() req: Request, @Query() query: any) {
     const { location } = query;
-    return this.placeService.findNear(location);
+    return this.placeService.findNear(
+      location.split(',').map((x) => parseFloat(x)),
+    );
   }
 }
