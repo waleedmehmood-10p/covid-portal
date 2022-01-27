@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "61f1ad1bb3717975a903e528"
+  },
+  "testDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc3"
+  },
+  "testResult": "POSITIVE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1ad300c04f4d72e4512e1"
+  },
+  "testDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc3"
+  },
+  "testResult": "POSITIVE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f2861c856ff630b96fd63e"
+  },
+  "testLocation": {
+    "$oid": "61f1a62bcfc98aea0b607e16"
+  },
+  "testDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc3"
+  },
+  "testResult": "POSITIVE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f286d4d1f7ed93b9ed3a13"
+  },
+  "testLocation": {
+    "$oid": "61f1a62bcfc98aea0b607e16"
+  },
+  "testDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc3"
+  },
+  "testResult": "POSITIVE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f28a7b0b62265d39e8ce7e"
+  },
+  "testLocation": {
+    "$oid": "61f1a62bcfc98aea0b607e16"
+  },
+  "testDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc3"
+  },
+  "testResult": "POSITIVE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f28add978763dbacc4deed"
+  },
+  "testLocation": {
+    "$oid": "61f1a62bcfc98aea0b607e16"
+  },
+  "testDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc3"
+  },
+  "testResult": "POSITIVE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f28b2f288ea029408d038d"
+  },
+  "testLocation": {
+    "$oid": "61f1a62bcfc98aea0b607e16"
+  },
+  "testDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc3"
+  },
+  "testResult": "POSITIVE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f28cbe3a73864be89d547c"
+  },
+  "testLocation": {
+    "$oid": "61f1a62bcfc98aea0b607e16"
+  },
+  "testDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc3"
+  },
+  "testResult": "POSITIVE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f28cd33a73864be89d5485"
+  },
+  "testLocation": {
+    "$oid": "61f1a62bcfc98aea0b607e16"
+  },
+  "testDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc5"
+  },
+  "testResult": "POSITIVE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f28d0a044bd3dea150cd8b"
+  },
+  "testLocation": {
+    "$oid": "61f1a62bcfc98aea0b607e16"
+  },
+  "testDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc5"
+  },
+  "testResult": "NEGATIVE",
+  "__v": 0
+}]

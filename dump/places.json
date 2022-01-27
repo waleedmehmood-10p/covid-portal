@@ -1,0 +1,3003 @@
+[{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e16"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Karachi",
+  "location": {
+    "coordinates": [
+      24.86,
+      67.01
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e17"
+    }
+  },
+  "name": "Karachi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e18"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Lahore",
+  "location": {
+    "coordinates": [
+      31.5497,
+      74.3436
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e19"
+    }
+  },
+  "name": "Lahore",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e1a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Faisalabad",
+  "location": {
+    "coordinates": [
+      31.418,
+      73.079
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e1b"
+    }
+  },
+  "name": "Faisalabad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e1c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Rawalpindi",
+  "location": {
+    "coordinates": [
+      33.6007,
+      73.0679
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e1d"
+    }
+  },
+  "name": "Rawalpindi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e1e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Gujranwala",
+  "location": {
+    "coordinates": [
+      32.15,
+      74.1833
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e1f"
+    }
+  },
+  "name": "Gujranwala",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e20"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Peshawar",
+  "location": {
+    "coordinates": [
+      34,
+      71.5
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e21"
+    }
+  },
+  "name": "Peshawar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e22"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Multan",
+  "location": {
+    "coordinates": [
+      30.1978,
+      71.4711
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e23"
+    }
+  },
+  "name": "Multan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e24"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Saidu Sharif",
+  "location": {
+    "coordinates": [
+      34.75,
+      72.3572
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e25"
+    }
+  },
+  "name": "Saidu Sharif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e26"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Hyderabad City",
+  "location": {
+    "coordinates": [
+      25.3792,
+      68.3683
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e27"
+    }
+  },
+  "name": "Hyderabad City",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e28"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Islamabad",
+  "location": {
+    "coordinates": [
+      33.6989,
+      73.0369
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e29"
+    }
+  },
+  "name": "Islamabad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e2a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Quetta",
+  "location": {
+    "coordinates": [
+      30.192,
+      67.007
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e2b"
+    }
+  },
+  "name": "Quetta",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e2c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Bahawalpur",
+  "location": {
+    "coordinates": [
+      29.3956,
+      71.6722
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e2d"
+    }
+  },
+  "name": "Bahawalpur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e2e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Sargodha",
+  "location": {
+    "coordinates": [
+      32.0836,
+      72.6711
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e2f"
+    }
+  },
+  "name": "Sargodha",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e30"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Sialkot City",
+  "location": {
+    "coordinates": [
+      32.5,
+      74.5333
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e31"
+    }
+  },
+  "name": "Sialkot City",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e32"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Sukkur",
+  "location": {
+    "coordinates": [
+      27.6995,
+      68.8673
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e33"
+    }
+  },
+  "name": "Sukkur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e34"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Larkana",
+  "location": {
+    "coordinates": [
+      27.56,
+      68.2264
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e35"
+    }
+  },
+  "name": "Larkana",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e36"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Chiniot",
+  "location": {
+    "coordinates": [
+      31.7167,
+      72.9833
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e37"
+    }
+  },
+  "name": "Chiniot",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e38"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Shekhupura",
+  "location": {
+    "coordinates": [
+      31.7083,
+      74
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e39"
+    }
+  },
+  "name": "Shekhupura",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e3a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Jhang City",
+  "location": {
+    "coordinates": [
+      31.2681,
+      72.3181
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e3b"
+    }
+  },
+  "name": "Jhang City",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e3c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Dera Ghazi Khan",
+  "location": {
+    "coordinates": [
+      30.05,
+      70.6333
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e3d"
+    }
+  },
+  "name": "Dera Ghazi Khan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e3e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Gujrat",
+  "location": {
+    "coordinates": [
+      32.5736,
+      74.0789
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e3f"
+    }
+  },
+  "name": "Gujrat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e40"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Rahimyar Khan",
+  "location": {
+    "coordinates": [
+      28.4202,
+      70.2952
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e41"
+    }
+  },
+  "name": "Rahimyar Khan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e42"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kasur",
+  "location": {
+    "coordinates": [
+      31.1167,
+      74.45
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e43"
+    }
+  },
+  "name": "Kasur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e44"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Mardan",
+  "location": {
+    "coordinates": [
+      34.1958,
+      72.0447
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e45"
+    }
+  },
+  "name": "Mardan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e46"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Mingaora",
+  "location": {
+    "coordinates": [
+      34.7717,
+      72.36
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e47"
+    }
+  },
+  "name": "Mingaora",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e48"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Nawabshah",
+  "location": {
+    "coordinates": [
+      26.2442,
+      68.41
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e49"
+    }
+  },
+  "name": "Nawabshah",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e4a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Sahiwal",
+  "location": {
+    "coordinates": [
+      30.6706,
+      73.1064
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e4b"
+    }
+  },
+  "name": "Sahiwal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e4c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Mirpur Khas",
+  "location": {
+    "coordinates": [
+      25.5269,
+      69.0111
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e4d"
+    }
+  },
+  "name": "Mirpur Khas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e4e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Okara",
+  "location": {
+    "coordinates": [
+      30.81,
+      73.4597
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e4f"
+    }
+  },
+  "name": "Okara",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e50"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Mandi Burewala",
+  "location": {
+    "coordinates": [
+      30.15,
+      72.6833
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e51"
+    }
+  },
+  "name": "Mandi Burewala",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e52"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Jacobabad",
+  "location": {
+    "coordinates": [
+      28.2769,
+      68.4514
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e53"
+    }
+  },
+  "name": "Jacobabad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e54"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Saddiqabad",
+  "location": {
+    "coordinates": [
+      28.3006,
+      70.1302
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e55"
+    }
+  },
+  "name": "Saddiqabad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e56"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kohat",
+  "location": {
+    "coordinates": [
+      33.5869,
+      71.4414
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e57"
+    }
+  },
+  "name": "Kohat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e58"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Muridke",
+  "location": {
+    "coordinates": [
+      31.802,
+      74.255
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e59"
+    }
+  },
+  "name": "Muridke",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e5a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Muzaffargarh",
+  "location": {
+    "coordinates": [
+      30.0703,
+      71.1933
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e5b"
+    }
+  },
+  "name": "Muzaffargarh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e5c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Khanpur",
+  "location": {
+    "coordinates": [
+      28.6471,
+      70.662
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e5d"
+    }
+  },
+  "name": "Khanpur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e5e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Gojra",
+  "location": {
+    "coordinates": [
+      31.15,
+      72.6833
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e5f"
+    }
+  },
+  "name": "Gojra",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e60"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Mandi Bahauddin",
+  "location": {
+    "coordinates": [
+      32.5861,
+      73.4917
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e61"
+    }
+  },
+  "name": "Mandi Bahauddin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e62"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Abbottabad",
+  "location": {
+    "coordinates": [
+      34.15,
+      73.2167
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e63"
+    }
+  },
+  "name": "Abbottabad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e64"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Turbat",
+  "location": {
+    "coordinates": [
+      26.0031,
+      63.0544
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e65"
+    }
+  },
+  "name": "Turbat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e66"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Dadu",
+  "location": {
+    "coordinates": [
+      26.7319,
+      67.775
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e67"
+    }
+  },
+  "name": "Dadu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e68"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Bahawalnagar",
+  "location": {
+    "coordinates": [
+      29.9944,
+      73.2536
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e69"
+    }
+  },
+  "name": "Bahawalnagar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e6a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Khuzdar",
+  "location": {
+    "coordinates": [
+      27.8,
+      66.6167
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e6b"
+    }
+  },
+  "name": "Khuzdar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e6c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Pakpattan",
+  "location": {
+    "coordinates": [
+      30.35,
+      73.4
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e6d"
+    }
+  },
+  "name": "Pakpattan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e6e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Tando Allahyar",
+  "location": {
+    "coordinates": [
+      25.4667,
+      68.7167
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e6f"
+    }
+  },
+  "name": "Tando Allahyar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e70"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Ahmadpur East",
+  "location": {
+    "coordinates": [
+      29.1453,
+      71.2617
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e71"
+    }
+  },
+  "name": "Ahmadpur East",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e72"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Vihari",
+  "location": {
+    "coordinates": [
+      30.0419,
+      72.3528
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e73"
+    }
+  },
+  "name": "Vihari",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e74"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Jaranwala",
+  "location": {
+    "coordinates": [
+      31.3342,
+      73.4194
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e75"
+    }
+  },
+  "name": "Jaranwala",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e76"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "New Mirpur",
+  "location": {
+    "coordinates": [
+      33.1333,
+      73.75
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e77"
+    }
+  },
+  "name": "New Mirpur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e78"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kamalia",
+  "location": {
+    "coordinates": [
+      30.7258,
+      72.6447
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e79"
+    }
+  },
+  "name": "Kamalia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e7a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kot Addu",
+  "location": {
+    "coordinates": [
+      30.47,
+      70.9644
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e7b"
+    }
+  },
+  "name": "Kot Addu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e7c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Nowshera",
+  "location": {
+    "coordinates": [
+      34.0153,
+      71.9747
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e7d"
+    }
+  },
+  "name": "Nowshera",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e7e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Swabi",
+  "location": {
+    "coordinates": [
+      34.1167,
+      72.4667
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e7f"
+    }
+  },
+  "name": "Swabi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e80"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Khushab",
+  "location": {
+    "coordinates": [
+      32.2917,
+      72.35
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e81"
+    }
+  },
+  "name": "Khushab",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e82"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Dera Ismail Khan",
+  "location": {
+    "coordinates": [
+      31.8167,
+      70.9167
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e83"
+    }
+  },
+  "name": "Dera Ismail Khan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e84"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Chaman",
+  "location": {
+    "coordinates": [
+      30.921,
+      66.4597
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e85"
+    }
+  },
+  "name": "Chaman",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e86"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Charsadda",
+  "location": {
+    "coordinates": [
+      34.1453,
+      71.7308
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e87"
+    }
+  },
+  "name": "Charsadda",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e88"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kandhkot",
+  "location": {
+    "coordinates": [
+      28.4,
+      69.3
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e89"
+    }
+  },
+  "name": "Kandhkot",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e8a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Chishtian",
+  "location": {
+    "coordinates": [
+      29.7958,
+      72.8578
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e8b"
+    }
+  },
+  "name": "Chishtian",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e8c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Hasilpur",
+  "location": {
+    "coordinates": [
+      29.6967,
+      72.5542
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e8d"
+    }
+  },
+  "name": "Hasilpur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e8e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Attock Khurd",
+  "location": {
+    "coordinates": [
+      33.7667,
+      72.3667
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e8f"
+    }
+  },
+  "name": "Attock Khurd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e90"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Muzaffarabad",
+  "location": {
+    "coordinates": [
+      34.37,
+      73.4711
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e91"
+    }
+  },
+  "name": "Muzaffarabad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e92"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Mianwali",
+  "location": {
+    "coordinates": [
+      32.5853,
+      71.5436
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e93"
+    }
+  },
+  "name": "Mianwali",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e94"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Jalalpur Jattan",
+  "location": {
+    "coordinates": [
+      32.7667,
+      74.2167
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e95"
+    }
+  },
+  "name": "Jalalpur Jattan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e96"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Bhakkar",
+  "location": {
+    "coordinates": [
+      31.6333,
+      71.0667
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e97"
+    }
+  },
+  "name": "Bhakkar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e98"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Zhob",
+  "location": {
+    "coordinates": [
+      31.3417,
+      69.4486
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e99"
+    }
+  },
+  "name": "Zhob",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e9a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Dipalpur",
+  "location": {
+    "coordinates": [
+      30.6708,
+      73.6533
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e9b"
+    }
+  },
+  "name": "Dipalpur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e9c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kharian",
+  "location": {
+    "coordinates": [
+      32.811,
+      73.865
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e9d"
+    }
+  },
+  "name": "Kharian",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607e9e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Mian Channun",
+  "location": {
+    "coordinates": [
+      30.4397,
+      72.3544
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607e9f"
+    }
+  },
+  "name": "Mian Channun",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ea0"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Bhalwal",
+  "location": {
+    "coordinates": [
+      32.2653,
+      72.9028
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ea1"
+    }
+  },
+  "name": "Bhalwal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ea2"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Jamshoro",
+  "location": {
+    "coordinates": [
+      25.4283,
+      68.2822
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ea3"
+    }
+  },
+  "name": "Jamshoro",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ea4"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Pattoki",
+  "location": {
+    "coordinates": [
+      31.0214,
+      73.8528
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ea5"
+    }
+  },
+  "name": "Pattoki",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ea6"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Harunabad",
+  "location": {
+    "coordinates": [
+      29.61,
+      73.1361
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ea7"
+    }
+  },
+  "name": "Harunabad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ea8"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kahror Pakka",
+  "location": {
+    "coordinates": [
+      29.6236,
+      71.9167
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ea9"
+    }
+  },
+  "name": "Kahror Pakka",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eaa"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Toba Tek Singh",
+  "location": {
+    "coordinates": [
+      30.9667,
+      72.4833
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eab"
+    }
+  },
+  "name": "Toba Tek Singh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eac"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Samundri",
+  "location": {
+    "coordinates": [
+      31.0639,
+      72.9611
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ead"
+    }
+  },
+  "name": "Samundri",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eae"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Shakargarh",
+  "location": {
+    "coordinates": [
+      32.2628,
+      75.1583
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eaf"
+    }
+  },
+  "name": "Shakargarh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eb0"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Sambrial",
+  "location": {
+    "coordinates": [
+      32.475,
+      74.3522
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eb1"
+    }
+  },
+  "name": "Sambrial",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eb2"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Shujaabad",
+  "location": {
+    "coordinates": [
+      29.8803,
+      71.295
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eb3"
+    }
+  },
+  "name": "Shujaabad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eb4"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Hujra Shah Muqim",
+  "location": {
+    "coordinates": [
+      30.7408,
+      73.8219
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eb5"
+    }
+  },
+  "name": "Hujra Shah Muqim",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eb6"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kabirwala",
+  "location": {
+    "coordinates": [
+      30.4068,
+      71.8667
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eb7"
+    }
+  },
+  "name": "Kabirwala",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eb8"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Mansehra",
+  "location": {
+    "coordinates": [
+      34.3333,
+      73.2
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eb9"
+    }
+  },
+  "name": "Mansehra",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eba"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Lala Musa",
+  "location": {
+    "coordinates": [
+      32.7006,
+      73.9558
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ebb"
+    }
+  },
+  "name": "Lala Musa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ebc"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Chunian",
+  "location": {
+    "coordinates": [
+      30.9639,
+      73.9803
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ebd"
+    }
+  },
+  "name": "Chunian",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ebe"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Nankana Sahib",
+  "location": {
+    "coordinates": [
+      31.4492,
+      73.7124
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ebf"
+    }
+  },
+  "name": "Nankana Sahib",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ec0"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Bannu",
+  "location": {
+    "coordinates": [
+      32.9889,
+      70.6056
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ec1"
+    }
+  },
+  "name": "Bannu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ec2"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Pasrur",
+  "location": {
+    "coordinates": [
+      32.2681,
+      74.6675
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ec3"
+    }
+  },
+  "name": "Pasrur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ec4"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Timargara",
+  "location": {
+    "coordinates": [
+      34.8281,
+      71.8408
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ec5"
+    }
+  },
+  "name": "Timargara",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ec6"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Parachinar",
+  "location": {
+    "coordinates": [
+      33.8992,
+      70.1008
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ec7"
+    }
+  },
+  "name": "Parachinar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ec8"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Chenab Nagar",
+  "location": {
+    "coordinates": [
+      31.75,
+      72.9167
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ec9"
+    }
+  },
+  "name": "Chenab Nagar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eca"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Gwadar",
+  "location": {
+    "coordinates": [
+      25.1264,
+      62.3225
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ecb"
+    }
+  },
+  "name": "Gwadar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ecc"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Abdul Hakim",
+  "location": {
+    "coordinates": [
+      30.5522,
+      72.1278
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ecd"
+    }
+  },
+  "name": "Abdul Hakim",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ece"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Hassan Abdal",
+  "location": {
+    "coordinates": [
+      33.8195,
+      72.689
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ecf"
+    }
+  },
+  "name": "Hassan Abdal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ed0"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Tank",
+  "location": {
+    "coordinates": [
+      32.2167,
+      70.3833
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ed1"
+    }
+  },
+  "name": "Tank",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ed2"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Hangu",
+  "location": {
+    "coordinates": [
+      33.5281,
+      71.0572
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ed3"
+    }
+  },
+  "name": "Hangu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ed4"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Risalpur Cantonment",
+  "location": {
+    "coordinates": [
+      34.0049,
+      71.9989
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ed5"
+    }
+  },
+  "name": "Risalpur Cantonment",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ed6"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Karak",
+  "location": {
+    "coordinates": [
+      33.1167,
+      71.0833
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ed7"
+    }
+  },
+  "name": "Karak",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ed8"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kundian",
+  "location": {
+    "coordinates": [
+      32.4522,
+      71.4718
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ed9"
+    }
+  },
+  "name": "Kundian",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eda"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Umarkot",
+  "location": {
+    "coordinates": [
+      25.3614,
+      69.7361
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607edb"
+    }
+  },
+  "name": "Umarkot",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607edc"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Chitral",
+  "location": {
+    "coordinates": [
+      35.8511,
+      71.7889
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607edd"
+    }
+  },
+  "name": "Chitral",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ede"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Dainyor",
+  "location": {
+    "coordinates": [
+      35.9206,
+      74.3783
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607edf"
+    }
+  },
+  "name": "Dainyor",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ee0"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kulachi",
+  "location": {
+    "coordinates": [
+      31.9286,
+      70.4592
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ee1"
+    }
+  },
+  "name": "Kulachi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ee2"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kalat",
+  "location": {
+    "coordinates": [
+      29.0258,
+      66.59
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ee3"
+    }
+  },
+  "name": "Kalat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ee4"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kotli",
+  "location": {
+    "coordinates": [
+      33.5156,
+      73.9019
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ee5"
+    }
+  },
+  "name": "Kotli",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ee6"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Gilgit",
+  "location": {
+    "coordinates": [
+      35.9208,
+      74.3144
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ee7"
+    }
+  },
+  "name": "Gilgit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ee8"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Narowal",
+  "location": {
+    "coordinates": [
+      32.102,
+      74.873
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ee9"
+    }
+  },
+  "name": "Narowal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eea"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Khairpur Mir’s",
+  "location": {
+    "coordinates": [
+      27.5295,
+      68.7592
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eeb"
+    }
+  },
+  "name": "Khairpur Mir’s",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eec"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Khanewal",
+  "location": {
+    "coordinates": [
+      30.3017,
+      71.9321
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eed"
+    }
+  },
+  "name": "Khanewal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607eee"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Jhelum",
+  "location": {
+    "coordinates": [
+      32.9333,
+      73.7333
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eef"
+    }
+  },
+  "name": "Jhelum",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ef0"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Haripur",
+  "location": {
+    "coordinates": [
+      33.9942,
+      72.9333
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ef1"
+    }
+  },
+  "name": "Haripur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ef2"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Shikarpur",
+  "location": {
+    "coordinates": [
+      27.9556,
+      68.6382
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ef3"
+    }
+  },
+  "name": "Shikarpur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ef4"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Rawala Kot",
+  "location": {
+    "coordinates": [
+      33.8578,
+      73.7604
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ef5"
+    }
+  },
+  "name": "Rawala Kot",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ef6"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Hafizabad",
+  "location": {
+    "coordinates": [
+      32.0709,
+      73.688
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ef7"
+    }
+  },
+  "name": "Hafizabad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607ef8"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Lodhran",
+  "location": {
+    "coordinates": [
+      29.5383,
+      71.6333
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607ef9"
+    }
+  },
+  "name": "Lodhran",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607efa"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Malakand",
+  "location": {
+    "coordinates": [
+      34.5656,
+      71.9304
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607efb"
+    }
+  },
+  "name": "Malakand",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607efc"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Attock City",
+  "location": {
+    "coordinates": [
+      33.7667,
+      72.3598
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607efd"
+    }
+  },
+  "name": "Attock City",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607efe"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Batgram",
+  "location": {
+    "coordinates": [
+      34.6796,
+      73.0263
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607eff"
+    }
+  },
+  "name": "Batgram",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f00"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Matiari",
+  "location": {
+    "coordinates": [
+      25.5971,
+      68.4467
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f01"
+    }
+  },
+  "name": "Matiari",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f02"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Ghotki",
+  "location": {
+    "coordinates": [
+      28.0064,
+      69.315
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f03"
+    }
+  },
+  "name": "Ghotki",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f04"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Naushahro Firoz",
+  "location": {
+    "coordinates": [
+      26.8401,
+      68.1227
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f05"
+    }
+  },
+  "name": "Naushahro Firoz",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f06"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Alpurai",
+  "location": {
+    "coordinates": [
+      34.9,
+      72.6556
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f07"
+    }
+  },
+  "name": "Alpurai",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f08"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Bagh",
+  "location": {
+    "coordinates": [
+      33.9803,
+      73.7747
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f09"
+    }
+  },
+  "name": "Bagh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f0a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Daggar",
+  "location": {
+    "coordinates": [
+      34.5111,
+      72.4844
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f0b"
+    }
+  },
+  "name": "Daggar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f0c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Leiah",
+  "location": {
+    "coordinates": [
+      30.9646,
+      70.9444
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f0d"
+    }
+  },
+  "name": "Leiah",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f0e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Tando Muhammad Khan",
+  "location": {
+    "coordinates": [
+      25.1239,
+      68.5389
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f0f"
+    }
+  },
+  "name": "Tando Muhammad Khan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f10"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Chakwal",
+  "location": {
+    "coordinates": [
+      32.93,
+      72.85
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f11"
+    }
+  },
+  "name": "Chakwal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f12"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Badin",
+  "location": {
+    "coordinates": [
+      24.6558,
+      68.8383
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f13"
+    }
+  },
+  "name": "Badin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f14"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Lakki",
+  "location": {
+    "coordinates": [
+      32.6072,
+      70.9123
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f15"
+    }
+  },
+  "name": "Lakki",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f16"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Rajanpur",
+  "location": {
+    "coordinates": [
+      29.1041,
+      70.3297
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f17"
+    }
+  },
+  "name": "Rajanpur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f18"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Dera Allahyar",
+  "location": {
+    "coordinates": [
+      28.4167,
+      68.1667
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f19"
+    }
+  },
+  "name": "Dera Allahyar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f1a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Shahdad Kot",
+  "location": {
+    "coordinates": [
+      27.8473,
+      67.9068
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f1b"
+    }
+  },
+  "name": "Shahdad Kot",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f1c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Pishin",
+  "location": {
+    "coordinates": [
+      30.5833,
+      67
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f1d"
+    }
+  },
+  "name": "Pishin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f1e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Sanghar",
+  "location": {
+    "coordinates": [
+      26.0464,
+      68.9481
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f1f"
+    }
+  },
+  "name": "Sanghar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f20"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Upper Dir",
+  "location": {
+    "coordinates": [
+      35.2074,
+      71.8768
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f21"
+    }
+  },
+  "name": "Upper Dir",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f22"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Thatta",
+  "location": {
+    "coordinates": [
+      24.7461,
+      67.9243
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f23"
+    }
+  },
+  "name": "Thatta",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f24"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Dera Murad Jamali",
+  "location": {
+    "coordinates": [
+      28.5466,
+      68.2231
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f25"
+    }
+  },
+  "name": "Dera Murad Jamali",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f26"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kohlu",
+  "location": {
+    "coordinates": [
+      29.8965,
+      69.2532
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f27"
+    }
+  },
+  "name": "Kohlu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f28"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Mastung",
+  "location": {
+    "coordinates": [
+      29.7997,
+      66.8455
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f29"
+    }
+  },
+  "name": "Mastung",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f2a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Dasu",
+  "location": {
+    "coordinates": [
+      35.2917,
+      73.2906
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f2b"
+    }
+  },
+  "name": "Dasu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f2c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Athmuqam",
+  "location": {
+    "coordinates": [
+      34.5717,
+      73.8972
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f2d"
+    }
+  },
+  "name": "Athmuqam",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f2e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Loralai",
+  "location": {
+    "coordinates": [
+      30.3705,
+      68.5979
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f2f"
+    }
+  },
+  "name": "Loralai",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f30"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Barkhan",
+  "location": {
+    "coordinates": [
+      29.8977,
+      69.5256
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f31"
+    }
+  },
+  "name": "Barkhan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f32"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Musa Khel Bazar",
+  "location": {
+    "coordinates": [
+      30.8594,
+      69.8221
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f33"
+    }
+  },
+  "name": "Musa Khel Bazar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f34"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Ziarat",
+  "location": {
+    "coordinates": [
+      30.3814,
+      67.7258
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f35"
+    }
+  },
+  "name": "Ziarat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f36"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Gandava",
+  "location": {
+    "coordinates": [
+      28.6132,
+      67.4856
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f37"
+    }
+  },
+  "name": "Gandava",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f38"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Sibi",
+  "location": {
+    "coordinates": [
+      29.543,
+      67.8773
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f39"
+    }
+  },
+  "name": "Sibi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f3a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Dera Bugti",
+  "location": {
+    "coordinates": [
+      29.0362,
+      69.1585
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f3b"
+    }
+  },
+  "name": "Dera Bugti",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f3c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Eidgah",
+  "location": {
+    "coordinates": [
+      35.3471,
+      74.8563
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f3d"
+    }
+  },
+  "name": "Eidgah",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f3e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Uthal",
+  "location": {
+    "coordinates": [
+      25.8072,
+      66.6228
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f3f"
+    }
+  },
+  "name": "Uthal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f40"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Khuzdar",
+  "location": {
+    "coordinates": [
+      27.7384,
+      66.6434
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f41"
+    }
+  },
+  "name": "Khuzdar",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f42"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Chilas",
+  "location": {
+    "coordinates": [
+      35.4206,
+      74.0967
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f43"
+    }
+  },
+  "name": "Chilas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f44"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Panjgur",
+  "location": {
+    "coordinates": [
+      26.9644,
+      64.0903
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f45"
+    }
+  },
+  "name": "Panjgur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f46"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Gakuch",
+  "location": {
+    "coordinates": [
+      36.1736,
+      73.7667
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f47"
+    }
+  },
+  "name": "Gakuch",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f48"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Qila Saifullah",
+  "location": {
+    "coordinates": [
+      30.7008,
+      68.3598
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f49"
+    }
+  },
+  "name": "Qila Saifullah",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f4a"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Kharan",
+  "location": {
+    "coordinates": [
+      28.5833,
+      65.4167
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f4b"
+    }
+  },
+  "name": "Kharan",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f4c"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Aliabad",
+  "location": {
+    "coordinates": [
+      36.3078,
+      74.6178
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f4d"
+    }
+  },
+  "name": "Aliabad",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f4e"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Awaran",
+  "location": {
+    "coordinates": [
+      26.4568,
+      65.2314
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f4f"
+    }
+  },
+  "name": "Awaran",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a62bcfc98aea0b607f50"
+  },
+  "countryCode": "PK",
+  "country": "Pakistan",
+  "city": "Dalbandin",
+  "location": {
+    "coordinates": [
+      28.8885,
+      64.4062
+    ],
+    "type": "Point",
+    "_id": {
+      "$oid": "61f1a62bcfc98aea0b607f51"
+    }
+  },
+  "name": "Dalbandin",
+  "__v": 0
+}]

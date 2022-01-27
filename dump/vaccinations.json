@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "61f2895fe3db2d99d8e54b72"
+  },
+  "patientId": {
+    "$oid": "61f1a64b918a1197c87c8dc3"
+  },
+  "VaccinationCenterPlace": {
+    "$oid": "61f1a62bcfc98aea0b607e16"
+  },
+  "VaccinationCenterName": "Govt Vaccination Center",
+  "VaccinationName": "Pfizer_BioNTech",
+  "vaccinationDate": {
+    "$date": "1997-07-16T18:20:30Z"
+  },
+  "__v": 0
+}]
