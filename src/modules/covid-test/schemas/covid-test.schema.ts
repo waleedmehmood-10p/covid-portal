@@ -20,6 +20,9 @@ export class CovidTest {
 
   @Prop()
   testDate: Date;
+
+  @Prop({ type: MongooseSchema.Types.ObjectId, ref: 'Place' })
+  testLocation: Place;
 }
 
 export type CovidTestDocument = CovidTest & Document;

@@ -21,11 +21,11 @@ seeder({
       inject: [ConfigService],
     }),
     MongooseModule.forFeature([
-      // { name: Patient.name, schema: PatientSchema }
-      { name: Place.name, schema: PlaceSchema },
+      { name: Patient.name, schema: PatientSchema }
+      // { name: Place.name, schema: PlaceSchema },
     ]),
   ],
 }).run([
-  PlacesSeeder,
-  // PatientsSeeder
+  // PlacesSeeder,
+  PatientsSeeder
 ]);

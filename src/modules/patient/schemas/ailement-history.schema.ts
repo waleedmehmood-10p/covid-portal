@@ -1,12 +1,15 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document, Schema as MongooseSchema } from 'mongoose';
 import { Place } from 'src/modules/place/schemas/place.schemas';
-import { PatientStatus } from './patient.constants';
+import { IPatientStatus, PatientStatus } from './patient.constants';
 
 @Schema()
 export class AilementHistory {
   @Prop()
   inftectedDate: Date;
+
+  @Prop()
+  recoveredDate: Date;
 
   @Prop()
   recoveringDate: Date;
@@ -27,11 +30,13 @@ export class AilementHistory {
 }
 
 export interface AilementHistoryInterface {
-  ailementDate: Date;
+  inftectedDate: Date;
   placeId: MongooseSchema.Types.ObjectId;
   placeName: string;
   abroad: boolean;
   ailementlingDaysCount: number;
+  status: IPatientStatus;
+  recoveredDate?: Date;
 }
 
 export type AilementHistoryDocument = AilementHistory & Document;

@@ -1,5 +1,12 @@
 import { ApiProperty } from '@nestjs/swagger';
-import { IsDateString, IsEnum, IsMongoId } from 'class-validator';
+import {
+  IsBoolean,
+  IsDate,
+  IsEnum,
+  IsMongoId,
+  IsOptional,
+} from 'class-validator';
+import { Schema } from 'mongoose';
 import { CovidTestResult } from '../schemas/covid-test.constants';
 
 export class CreateCovidTestDto {
@@ -9,9 +16,24 @@ export class CreateCovidTestDto {
 
   @IsMongoId()
   @ApiProperty({})
-  patientId: string;
+  patientId: Schema.Types.ObjectId;
 
-  @IsDateString()
+  @IsMongoId()
+  @ApiProperty({})
+  testLocation: Schema.Types.ObjectId;
+
+  @IsDate()
   @ApiProperty({})
   testDate: Date;
+
+  @IsBoolean()
+  recentlyTravelled: boolean;
+
+  @IsBoolean()
+  @IsOptional()
+  travelledAbroad: boolean;
+
+  @IsMongoId()
+  @IsOptional()
+  travelledPlaceId: string;
 }

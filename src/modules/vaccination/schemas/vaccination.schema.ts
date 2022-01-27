@@ -5,12 +5,26 @@ import { Place } from 'src/modules/place/schemas/place.schemas';
 
 export type VaccinationDocument = Vaccination & Document;
 
-type VACCINATIONS_TYPE = 'INFECTED' | 'RECOVERED' | 'NEVER_INFECTED' | 'DEAD';
-const VACCINATIONS: VACCINATIONS_TYPE[] = [
-  'NEVER_INFECTED',
-  'INFECTED',
-  'RECOVERED',
-  'DEAD',
+type VACCINATIONS_TYPE =
+  | 'Pfizer_BioNTech'
+  | 'Oxford_AstraZeneca'
+  | 'Sinopharm'
+  | 'BIBP'
+  | 'Moderna'
+  | 'Janssen'
+  | 'CoronaVac'
+  | 'Covaxin'
+  | 'Novavax';
+export const VACCINATIONS: VACCINATIONS_TYPE[] = [
+  'Pfizer_BioNTech',
+  'Oxford_AstraZeneca',
+  'Sinopharm',
+  'BIBP',
+  'Moderna',
+  'Janssen',
+  'CoronaVac',
+  'Covaxin',
+  'Novavax',
 ];
 
 @Schema()

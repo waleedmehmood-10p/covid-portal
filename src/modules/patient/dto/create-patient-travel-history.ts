@@ -1,12 +1,17 @@
 import { ApiProperty } from '@nestjs/swagger';
-import { Type } from 'class-transformer';
-import { IsBoolean, IsDate, IsDateString, IsMongoId, IsNumber } from 'class-validator';
+import {
+  IsBoolean,
+  IsDate,
+  IsDateString,
+  IsMongoId,
+  IsNumber,
+} from 'class-validator';
 import { Schema } from 'mongoose';
 
 export class CreatePatientTravelHistory {
-  @IsDateString()
-  @ApiProperty({ type: String, description: 'name' })
-  travelDate: string;
+  @IsDate()
+  @ApiProperty({ type: Date, description: 'name' })
+  travelDate: Date;
 
   @IsNumber()
   @ApiProperty()

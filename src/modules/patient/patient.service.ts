@@ -8,6 +8,8 @@ import { CreatePatientTravelHistory } from './dto/create-patient-travel-history'
 import { Schema } from 'mongoose';
 import { TravelHistoryInterface } from './schemas/travel-history.schema';
 import { Place } from '../place/schemas/place.schemas';
+import { IPatientStatus, PatientStatus } from './schemas/patient.constants';
+import { UpdatePatientDto } from './dto/UpdatePatient.dto';
 
 @Injectable()
 export class PatientService {
@@ -20,11 +22,19 @@ export class PatientService {
     return this.patientModel.find();
   }
 
+  async getPatientById(id: string): Promise<Patient> {
+    return this.patientModel.findById(id);
+  }
+
   async getPatient() {
     return await this.patientModel.findById(1);
   }
   async createPatient(patient: any): Promise<Patient> {
     return this.patientModel.create(patient);
+  }
+
+  async updatePatient(id: string, payload: UpdatePatientDto): Promise<Patient> {
+    return this.patientModel.findByIdAndUpdate(id, payload);
   }
 
   async addTravellingHistory(
@@ -48,5 +58,10 @@ export class PatientService {
     }
 
     return patient.save();
+  }
+
+  async getPositivePatients() {
+    const status: IPatientStatus = 'INFECTED';
+    return this.patientModel.find({ status });
   }
 }

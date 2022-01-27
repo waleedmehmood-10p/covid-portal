@@ -1,4 +1,4 @@
-type IPatientStatus = 'INFECTED' | 'RECOVERED' | 'NEVER_INFECTED' | 'DEAD';
+export type IPatientStatus = 'INFECTED' | 'RECOVERED' | 'NEVER_INFECTED' | 'DEAD';
 export const PatientStatus: IPatientStatus[] = [
   'NEVER_INFECTED',
   'INFECTED',
