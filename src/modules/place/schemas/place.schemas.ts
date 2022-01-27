@@ -2,15 +2,7 @@ import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document, Types } from 'mongoose';
 import { GeoInterface, GeoLocSchema } from './geo-loc.schema';
 
-@Schema({
-  // toJSON: {
-  //   transform(doc, ret) {
-  //     ret.id = ret._id;
-  //     delete ret._id;
-  //     delete ret.__v;
-  //   },
-  // },
-})
+@Schema()
 export class Place {
   @Prop()
   name: string;

@@ -22,10 +22,10 @@ seeder({
     }),
     MongooseModule.forFeature([
       { name: Patient.name, schema: PatientSchema }
-      // { name: Place.name, schema: PlaceSchema },
+      { name: Place.name, schema: PlaceSchema },
     ]),
   ],
 }).run([
-  // PlacesSeeder,
+  PlacesSeeder,
   PatientsSeeder
 ]);
